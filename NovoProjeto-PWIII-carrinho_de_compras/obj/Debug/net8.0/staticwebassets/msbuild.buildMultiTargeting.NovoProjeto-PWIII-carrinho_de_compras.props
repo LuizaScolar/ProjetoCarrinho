@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NovoProjeto-PWIII-carrinho_de_compras.props" />
+</Project>
