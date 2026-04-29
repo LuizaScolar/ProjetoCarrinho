@@ -245,3 +245,16 @@ C:\Users\3MTEC\Desktop\NovoProjeto-PWIII-carrinho_de_compras-main\NovoProjeto-PW
 C:\Users\3MTEC\Desktop\NovoProjeto-PWIII-carrinho_de_compras-main\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.pdb
 C:\Users\3MTEC\Desktop\NovoProjeto-PWIII-carrinho_de_compras-main\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.genruntimeconfig.cache
 C:\Users\3MTEC\Desktop\NovoProjeto-PWIII-carrinho_de_compras-main\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\ref\NovoProjeto-PWIII-carrinho_de_compras.dll
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.csproj.AssemblyReference.cache
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.AssemblyInfoInputs.cache
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.AssemblyInfo.cs
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.csproj.CoreCompileInputs.cache
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.RazorAssemblyInfo.cache
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.RazorAssemblyInfo.cs
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.sourcelink.json
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.dll
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\refint\NovoProjeto-PWIII-carrinho_de_compras.dll
+C:\Users\3MTEC\Desktop\PROJETONILSON2\ProjetoCarrinho\NovoProjeto-PWIII-carrinho_de_compras\obj\Debug\net8.0\NovoProjeto-PWIII-carrinho_de_compras.pdb

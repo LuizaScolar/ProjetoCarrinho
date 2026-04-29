@@ -5,7 +5,7 @@ using NovoProjeto_PWIII_carrinho_de_compras.Models;
 using NovoProjeto_PWIII_carrinho_de_compras.repository.contract;
 
 namespace NovoProjeto_PWIII_carrinho_de_compras.Controllers;
-{
+
 public class HomeController : Controller
 {
     private ILivroRepository _livroRepository;
@@ -25,8 +25,8 @@ public class HomeController : Controller
         _livroRepository = livroRepository;
 
     }
-}
-}
+
+
 
     public IActionResult Index()
     {
@@ -62,25 +62,27 @@ public class HomeController : Controller
 
     public IActionResult RemoverItem(int id)
     {
-        _cookieCarrinhoCompra.RemoverItem(int id);
+        _cookieCarrinhoCompra.Remover(new Livro() { codLivro = id });
         return RedirectToAction(nameof(Carrinho));
     }
 
+
+    DateTime data;
     public IActionResult SalvarCarrinho(Emprestimo emprestimo)
     {
-    List<Livro> carrinho = _cookieCarrinhoCompra.Consultar();
+        List<Livro> carrinho = _cookieCarrinhoCompra.Consultar();
 
     Emprestimo mdE = new Emprestimo();
     Item mdI = new Item();
 
-    data = DateTime.Now.ToLocalTime();
+        data = DateTime.Now.ToLocalTime();
 
-    mdE.dtEmpre = data.ToString("dd/MM/yyyy");
-    mdE.dtDev = data.AddDays(7).ToString();
-    mdE.codUsu = "1";
-    _emprestimoRepository.Cadastrar(mdE);
+        mdE.dtdEmp = data.ToString("dd/MM/yyyy");
+        mdE.dtDev = data.AddDays(7).ToString();
+        mdE.codUsu = "1";
+        _emprestimoRepository.Cadastrar(mdE);
 
-    _emprestimoRepository.buscaIdEmp(emprestimo);
+        _emprestimoRepository.buscaIdEmp(emprestimo);
 
     for (int i = 0; i < carrinho.Count; i++)
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UdI0mzDmMRM=",
+  "dgSpecHash": "ndAlrxo7K6I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\3MTEC\\Desktop\\NovoProjeto-PWIII-carrinho_de_compras-main\\NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj",
+  "projectFilePath": "C:\\Users\\3MTEC\\Desktop\\PROJETONILSON2\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3MTEC\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\3MTEC\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
