@@ -40,10 +40,11 @@ builder.Services.AddScoped<GerenciadorArquivo>();
 builder.Services.AddScoped<NovoProjeto_PWIII_carrinho_de_compras.Cookie.Cookie>();
 builder.Services.AddScoped<NovoProjeto_PWIII_carrinho_de_compras.Carrinho.CookieCarrinhoCompra>();
 
-var app = builder.Build();
-
 builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
+
+var app = builder.Build();
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
