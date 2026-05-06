@@ -8,12 +8,12 @@ nomeUsu varchar(50)
 create table tbLivro(
 codLivro int primary key auto_increment,
 nomeLivro varchar(50),
-imagemLivro varchar (255)
+imagemLivro varchar(255)
 );
 create table tbEmprestimo(
 codEmp int primary key auto_increment,
-dataEmp varchar(20),
-dataDev varchar(20),
+dtEmp varchar(20),
+dtDev varchar(20),
 codUsu int references tbUsuario(codUsu)
 );
 create table itensEmp(
