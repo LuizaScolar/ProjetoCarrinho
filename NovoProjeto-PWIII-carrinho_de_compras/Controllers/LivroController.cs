@@ -31,5 +31,23 @@ namespace NovoProjeto_PWIII_carrinho_de_compras.Controllers
             ViewBag.msg = "Cadastro Realizado";
             return View();  
         }
+
+        public IActionResult CadLivro()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CadLivro(Livro livro, IFormFile file)
+        {
+            var Caminho = GerenciadorArquivo.CadastrarImagemProduto(file);
+
+            livro.imagemLivro = Caminho;
+
+            _livrorepository.Cadastrar(livro);
+
+            ViewBag.msg = "Cadastro Realizado";
+            return View();
+        }
     }
 }
