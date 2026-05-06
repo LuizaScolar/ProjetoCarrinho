@@ -31,7 +31,7 @@
             <br />
             <div class="form-group">
                 <input type="file" name="file" id="file" /> <br />
-                <span asp-validation-for="imagemLivro" class="text-danger"></span>
+                @* <span asp-validation-for="imagemLivro" class="text-danger"></span> *@
             </div>
             @ViewBag.msg
             <div class="form-group">
@@ -39,10 +39,6 @@
             </div>
         </form>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {

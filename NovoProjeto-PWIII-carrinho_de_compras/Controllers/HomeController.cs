@@ -77,7 +77,7 @@ public class HomeController : Controller
 
         data = DateTime.Now.ToLocalTime();
 
-        mdE.dtdEmp = data.ToString("dd/MM/yyyy");
+        mdE.dtEmp = data.ToString("dd/MM/yyyy");
         mdE.dtDev = data.AddDays(7).ToString();
         mdE.codUsu = "1";
         _emprestimoRepository.Cadastrar(mdE);

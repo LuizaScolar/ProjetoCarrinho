@@ -43,9 +43,9 @@ namespace NovoProjeto_PWIII_carrinho_de_compras.repository
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("insert into tbEmprestimo values(default, @dtdEmp, @dtDev , @codUsu)", conexao);
+                MySqlCommand cmd = new MySqlCommand("insert into tbEmprestimo values(default, @dtEmp, @dtDev , @codUsu)", conexao);
 
-                cmd.Parameters.Add("@dtEmpre", MySqlDbType.VarChar).Value = emprestimo.dtdEmp;
+                cmd.Parameters.Add("@dtEmp", MySqlDbType.VarChar).Value = emprestimo.dtEmp;
                 cmd.Parameters.Add("@dtDev", MySqlDbType.VarChar).Value = emprestimo.dtDev;
                 cmd.Parameters.Add("@codUsu", MySqlDbType.VarChar).Value = emprestimo.codUsu;
                 cmd.ExecuteNonQuery();

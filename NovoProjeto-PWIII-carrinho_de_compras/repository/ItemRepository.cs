@@ -20,7 +20,7 @@ namespace NovoProjeto_PWIII_carrinho_de_compras.repository
 
         public void Cadastrar(Item item)
         {
-            using(var conexao = new MySqlConnection("ConexaoMySQL"))
+            using(var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
                 MySqlCommand cmd = new MySqlCommand("Insert into itensEmp values(default, @codEmp, @codLivro)", conexao);

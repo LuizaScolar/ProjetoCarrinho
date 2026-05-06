@@ -34,6 +34,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaWJsaW90ZWNhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/3mtec/Desktop/ProjetoCarrinho/NovoProjeto-PWIII-carrinho_de_compras/Views/Home/Carrinho.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJyaW5oby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3mtec/Desktop/ProjetoCarrinho/NovoProjeto-PWIII-carrinho_de_compras/Views/Home/confEmp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb25mRW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/3mtec/Desktop/ProjetoCarrinho/NovoProjeto-PWIII-carrinho_de_compras/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,14 +52,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/3mtec/Desktop/ProjetoCarrinho/NovoProjeto-PWIII-carrinho_de_compras/Views/Livro/CadLivro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cQ2FkTGl2cm8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3mtec/Desktop/ProjetoCarrinho/NovoProjeto-PWIII-carrinho_de_compras/Views/Livro/confEmp.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cY29uZkVtcC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3mtec/Desktop/ProjetoCarrinho/NovoProjeto-PWIII-carrinho_de_compras/Views/Livro/Indexlivro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cSW5kZXhsaXZyby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/3mtec/Desktop/ProjetoCarrinho/NovoProjeto-PWIII-carrinho_de_compras/Views/Shared/Error.cshtml]

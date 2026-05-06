@@ -10,6 +10,6 @@ namespace NovoProjeto_PWIII_carrinho_de_compras.repository.contract
         void Atualizar(Livro livro);
         Livro ObterLivros(int id);
         void Excluir(int id);
-        void Cadastrar(LivroController livro);
+        //void Cadastrar(LivroController livro);
     }
 }

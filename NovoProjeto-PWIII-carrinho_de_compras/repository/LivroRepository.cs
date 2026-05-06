@@ -24,17 +24,21 @@ namespace NovoProjeto_PWIII_carrinho_de_compras.repository
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
+                conexao.Open();
+
                 MySqlCommand cmd = new MySqlCommand("insert into tbLivro values(default, @nomeLivro, @imagemLivro)", conexao);
+               
                 cmd.Parameters.Add("@nomeLivro", MySqlDbType.VarChar).Value = livro.nomeLivro;
                 cmd.Parameters.Add("@imagemLivro", MySqlDbType.VarChar).Value = livro.imagemLivro;
+                cmd.ExecuteNonQuery();
                 conexao.Close();
             }
         }
 
-        public void Cadastrar(LivroController livro)
-        {
-            throw new NotImplementedException();
-        }
+        //public void Cadastrar(LivroController livro)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public void Excluir(int id)
         {
