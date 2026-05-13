@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovoProjeto-PWIII-carrinho_de_compras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87dad75eda3ecf7051f1d7a371908aafb2167bd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b68d6153c7f0d2c391e34940d1a80bfb6705ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovoProjeto-PWIII-carrinho_de_compras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovoProjeto-PWIII-carrinho_de_compras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
