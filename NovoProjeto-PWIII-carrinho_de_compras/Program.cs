@@ -42,6 +42,7 @@ builder.Services.AddScoped<NovoProjeto_PWIII_carrinho_de_compras.Carrinho.Cookie
 
 builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
+builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
 
 var app = builder.Build();
 
