@@ -1,113 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\",
+  "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\component\\menuviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\component\\menuviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\contract\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\contract\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\livro\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\livro\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\confemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\confemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\biblioteca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\biblioteca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\contract\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\contract\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\gerenciaarquivos\\gerenciadorarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\repository\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\repository\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\component\\menuviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\component\\menuviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\livro\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\livro\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\confemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\confemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\biblioteca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\biblioteca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\gerenciaarquivos\\gerenciadorarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\gerenciaarquivos\\gerenciadorarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\emprestimocategoria\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\cookie\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|c:\\users\\3mtec\\desktop\\projetocarrinho\\novoprojeto-pwiii-carrinho_de_compras\\cookie\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB4D3392-8F4B-4E2A-B419-33330186CE93}|NovoProjeto-PWIII-carrinho_de_compras\\NovoProjeto-PWIII-carrinho_de_compras.csproj|solutionrelative:novoprojeto-pwiii-carrinho_de_compras\\cookie\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -117,19 +117,19 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 237,
+      "VerticalTabListWidth": 257,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Biblioteca.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Biblioteca.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Biblioteca.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Biblioteca.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Biblioteca.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Biblioteca.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Biblioteca.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -138,25 +138,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Program.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Program.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Program.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Program.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAmwCwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T14:04:50.583Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Cookie.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Cookie\\Cookie.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Cookie\\Cookie.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Cookie\\Cookie.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Cookie\\Cookie.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Cookie\\Cookie.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Cookie\\Cookie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,11 +164,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAmwGMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,50 +177,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T14:57:54.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T14:57:54.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\CategoriaRepository.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\CategoriaRepository.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\CategoriaRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T14:39:50.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Categoria.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T14:31:40.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ICategoriaRepository.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ICategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ICategoriaRepository.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ICategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,49 +228,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\Components\\Menu\\Default.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\Components\\Menu\\Default.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Shared\\Components\\Menu\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-13T12:23:54.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "MenuViewComponet.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Component\\MenuViewComponet.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Component\\MenuViewComponet.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Component\\MenuViewComponet.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Component\\MenuViewComponet.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Component\\MenuViewComponet.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Component\\MenuViewComponet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T12:09:22.766Z",
+              "WhenOpened": "2026-05-13T12:09:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
+              "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T14:43:22.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
-              "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
-              "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\ItemRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAawBYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T14:43:22.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "confEmp.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\confEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\confEmp.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\confEmp.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\confEmp.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\confEmp.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\confEmp.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -280,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Carrinho.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Carrinho.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Carrinho.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Carrinho.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Carrinho.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Carrinho.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Carrinho.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -292,48 +290,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "EmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\EmprestimoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\EmprestimoRepository.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\EmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\EmprestimoRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\EmprestimoRepository.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\EmprestimoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T14:29:50.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 0,
               "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\LivroRepository.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\LivroRepository.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\LivroRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwEsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T14:25:26.906Z"
+              "WhenOpened": "2026-05-06T14:25:26.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 6,
               "Title": "ILivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ILivroRepository.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ILivroRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ILivroRepository.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\repository\\contract\\ILivroRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T14:24:44.601Z"
+              "WhenOpened": "2026-05-06T14:24:44.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Emprestimo.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Emprestimo.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Emprestimo.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Emprestimo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,25 +342,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Item.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Item.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T14:21:31.68Z"
+              "WhenOpened": "2026-05-06T14:21:31.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Livro.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Livro.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Models\\Livro.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Models\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T14:20:40.972Z",
               "EditorCaption": ""
@@ -369,9 +370,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "GerenciadorArquivo.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\GerenciaArquivos\\GerenciadorArquivo.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\GerenciaArquivos\\GerenciadorArquivo.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\GerenciaArquivos\\GerenciadorArquivo.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\GerenciaArquivos\\GerenciadorArquivo.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\GerenciaArquivos\\GerenciadorArquivo.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\GerenciaArquivos\\GerenciadorArquivo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "CadLivro.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Livro\\CadLivro.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Livro\\CadLivro.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Livro\\CadLivro.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Livro\\CadLivro.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Livro\\CadLivro.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Livro\\CadLivro.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -391,25 +392,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\appsettings.json",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\appsettings.json",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\appsettings.json",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\appsettings.json",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-05T11:37:28.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T11:37:28.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\AppData\\Local\\Temp\\.vsdbgsrc\\aba0e8bf085f0c41e53855c52c7543d065150587fa3582fc20b4dfe62fd5f64f\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aba0e8bf085f0c41e53855c52c7543d065150587fa3582fc20b4dfe62fd5f64f\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aba0e8bf085f0c41e53855c52c7543d065150587fa3582fc20b4dfe62fd5f64f\\Program.cs",
               "ToolTip": "C:\\Users\\3mtec\\AppData\\Local\\Temp\\.vsdbgsrc\\aba0e8bf085f0c41e53855c52c7543d065150587fa3582fc20b4dfe62fd5f64f\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aba0e8bf085f0c41e53855c52c7543d065150587fa3582fc20b4dfe62fd5f64f\\Program.cs",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aba0e8bf085f0c41e53855c52c7543d065150587fa3582fc20b4dfe62fd5f64f\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T14:37:19.168Z"
             },
@@ -417,9 +417,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "LivroController.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\LivroController.cs",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\LivroController.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\LivroController.cs",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Controllers\\LivroController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAiwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -427,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -439,11 +439,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -451,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -463,11 +463,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\EMPRESTIMOCATEGORIA\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\ProjetoCarrinho\\NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "NovoProjeto-PWIII-carrinho_de_compras\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

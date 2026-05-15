@@ -30,7 +30,7 @@ namespace NovoProjeto_PWIII_carrinho_de_compras.repository
                     catList.Add(
                         new Categoria
                         {
-                            Id = Convert.ToInt32(dr["Id"]),
+                            Id = Convert.ToInt32(dr["idLivro"]),
                             Nome = (string)(dr["Nome"]),
                         });
                 }
